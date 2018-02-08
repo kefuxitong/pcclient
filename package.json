@@ -1,0 +1,8 @@
+{
+  "name": "flash-service",
+  "version": "1.0.0",
+  "manifest": [{
+    "version": "1.0.0",
+    "detail": ["第一版发布"]
+  }]
+}
